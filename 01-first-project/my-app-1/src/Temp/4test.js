@@ -16,3 +16,12 @@ function numberToString(num) {
     return string;
     // Return a string of the number here!
 }
+function even_or_odd(number) {
+    let num = number;
+    if (num % 2 === 0){
+        return "Even";
+    }
+    else {
+        return "Odd";
+    }
+}
