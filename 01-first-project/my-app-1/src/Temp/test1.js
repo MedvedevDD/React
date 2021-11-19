@@ -21,3 +21,16 @@ function golfScore(par, strokes) {
 }
 
 golfScore(5, 4);
+
+var summation = function (num) {
+    var k = 0;
+    var sum = 0;
+    while (k <= num) {
+        sum = sum + k;
+        k++;
+    }
+
+    return sum;
+    // Code here
+}
+summation(10);
