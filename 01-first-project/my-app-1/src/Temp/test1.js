@@ -68,3 +68,24 @@ function basicOp(operation, value1, value2) {
     }
 }
 basicOp("*", 5, 6)
+
+function bmi(weight, height) {
+    var bodymassindex = weight / (height*height);
+    if (bodymassindex <= 18.5) {
+        return "Underweight";
+    }
+    else if (bodymassindex <= 25.0) {
+        return "Normal";
+    }
+    else if (bodymassindex <= 30.0) {
+        return "Overweight";
+    }
+    if (bodymassindex > 30) {
+        return "Obese";
+    }
+}
+
+var stringToNumber = function(str){
+    let num = Number(str);// put your code here
+    return num;
+}
