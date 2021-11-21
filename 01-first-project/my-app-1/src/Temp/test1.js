@@ -127,7 +127,7 @@ function switchItUp(number) {
     }
 }
 
-function getAge(inputString){
+function getAge(inputString) {
     var age = Number(inputString[0]);// return correct age (int). Happy coding :)
     return age;
 }
@@ -137,7 +137,7 @@ function isDivideBy(number, a, b) {
 }
 
 function cockroachSpeed(s) {
-    if (s>=0){
+    if (s >= 0) {
         var cmpersec = Math.floor(s * 100000 / 3600);
     }
     return cmpersec;
@@ -149,10 +149,9 @@ function otherAngle(a, b) {
 
 function twiceAsOld(dadYearsOld, sonYearsOld) {
 
-    if   (sonYearsOld > dadYearsOld * 0.5) {
-        return (sonYearsOld*2 - dadYearsOld);}
-
-    else return (dadYearsOld - sonYearsOld*2);
+    if (sonYearsOld > dadYearsOld * 0.5) {
+        return (sonYearsOld * 2 - dadYearsOld);
+    } else return (dadYearsOld - sonYearsOld * 2);
 }
 
 class Kata {
@@ -161,6 +160,22 @@ class Kata {
     }
 }
 
-function nthEven(n){
-    return n*2-2;
+function nthEven(n) {
+    return n * 2 - 2;
+}
+
+function century(year) {
+    return Math.floor((year - 1) / 100) + 1;
+}
+
+function getRealFloor(n) {
+    var realFloor = 0;
+    if (n > 0 && n < 13) {
+        realFloor = n - 1;
+    } else if (n > 13) {
+        realFloor = n - 2;
+    } else {
+        realFloor = n;
+    }
+    return realFloor;
 }
