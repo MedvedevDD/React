@@ -146,3 +146,14 @@ function cockroachSpeed(s) {
 function otherAngle(a, b) {
     return 180 - a - b;
 }
+
+function twiceAsOld(dadYearsOld, sonYearsOld) {
+
+    if   (sonYearsOld > dadYearsOld * 0.5) {
+        return (sonYearsOld*2 - dadYearsOld);}
+
+    else return (dadYearsOld - sonYearsOld*2);
+
+
+
+}
