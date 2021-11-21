@@ -67,17 +67,16 @@ function basicOp(operation, value1, value2) {
             return value1 / value2;
     }
 }
+
 basicOp("*", 5, 6)
 
 function bmi(weight, height) {
-    var bodymassindex = weight / (height*height);
+    var bodymassindex = weight / (height * height);
     if (bodymassindex <= 18.5) {
         return "Underweight";
-    }
-    else if (bodymassindex <= 25.0) {
+    } else if (bodymassindex <= 25.0) {
         return "Normal";
-    }
-    else if (bodymassindex <= 30.0) {
+    } else if (bodymassindex <= 30.0) {
         return "Overweight";
     }
     if (bodymassindex > 30) {
@@ -85,7 +84,50 @@ function bmi(weight, height) {
     }
 }
 
-var stringToNumber = function(str){
+var stringToNumber = function (str) {
     let num = Number(str);// put your code here
     return num;
+}
+
+function rentalCarCost(d) {
+    var rent = 40;
+    var totalrent = 0;
+    if (d < 3) {
+        totalrent = d * rent;
+    } else if (d >= 3 && d < 7) {
+        totalrent = d * rent - 20;
+    } else if (d >= 7) {
+        totalrent = d * rent - 50;
+    }
+    return totalrent;
+}
+
+function switchItUp(number) {
+    switch (number) {
+        case 1:
+            return "One";
+        case 2:
+            return "Two";
+        case 3:
+            return "Three";
+        case 4:
+            return "Four";
+        case 5:
+            return "Five";
+        case 6:
+            return "Six";
+        case 7:
+            return "Seven";
+        case 8:
+            return "Eight";
+        case 9:
+            return "Nine";
+        case 0:
+            return "Zero";
+    }
+}
+
+function getAge(inputString){
+    var age = Number(inputString[0]);// return correct age (int). Happy coding :)
+    return age;
 }
