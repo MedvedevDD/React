@@ -134,7 +134,11 @@ function getAge(inputString){
 
 function isDivideBy(number, a, b) {
     return (number % a == 0 && number % b == 0) ? true : false;
+}
 
-
-
+function cockroachSpeed(s) {
+    if (s>=0){
+        var cmpersec = Math.floor(s * 100000 / 3600);
+    }
+    return cmpersec;
 }
