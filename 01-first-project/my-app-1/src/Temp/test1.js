@@ -131,3 +131,10 @@ function getAge(inputString){
     var age = Number(inputString[0]);// return correct age (int). Happy coding :)
     return age;
 }
+
+function isDivideBy(number, a, b) {
+    return (number % a == 0 && number % b == 0) ? true : false;
+
+
+
+}
