@@ -153,7 +153,14 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
         return (sonYearsOld*2 - dadYearsOld);}
 
     else return (dadYearsOld - sonYearsOld*2);
+}
 
+class Kata {
+    static getVolumeOfCuboid(length, width, height) {
+        return length * width * height;
+    }
+}
 
-
+function nthEven(n){
+    return n*2-2;
 }
