@@ -179,3 +179,17 @@ function getRealFloor(n) {
     }
     return realFloor;
 }
+
+function past(h, m, s) {
+    return (h * 60 * 60 * 1000) + (m * 60 * 1000) + (s * 1000)//#Happy Coding! ^_^
+}
+
+function simpleMultiplication(number) {
+    var result = 0;
+    if (number % 2 == 0) {
+        result = number * 8;
+    } else {
+        result = number * 9;
+    }
+    return result;
+}
