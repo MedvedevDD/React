@@ -263,6 +263,14 @@ const areaOrPerimeter = function (l, w) {
     return l == w ? l * w : l * 2 + w * 2;
 };
 
-function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
+function goals(laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
     return laLigaGoals + copaDelReyGoals + championsLeagueGoals;
+}
+
+function oddOrEven(array) {
+    var sum = 0;
+    for (i = 0; i < array.length; i++) {
+        sum = sum + array[i];
+    }
+    return sum % 2 == 0 ? "even" : "odd";
 }
