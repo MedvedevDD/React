@@ -245,3 +245,21 @@ function howMuchILoveYou(nbPetals) {
             return "not at all";
     }
 }
+
+function peopleWithAgeDrink(old) {
+    if (old < 14) {
+        return "drink toddy";
+    } else if (old > 13 && old < 18) {
+        return "drink coke";
+    } else if (old > 17 && old < 21) {
+        return "drink beer";
+    } else if (old > 20) {
+        return "drink whisky";
+    }
+
+};
+
+const areaOrPerimeter = function (l, w) {
+    return l == w ? l * w : l * 2 + w * 2;
+
+};
