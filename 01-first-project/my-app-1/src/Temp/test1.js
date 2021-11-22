@@ -213,6 +213,35 @@ function cc(card) {
             count = count + 1;
     }
     return (count <= 0 ? count + ' Hold' : count + ' Bet');
-   }
+}
 
-cc(2);cc(3);cc(7);cc('K');cc('A');
+cc(2);
+cc(3);
+cc(7);
+cc('K');
+cc('A');
+
+function howMuchILoveYou(nbPetals) {
+//   var num = 0;
+    if (nbPetals < 7) {
+        nbPetals = nbPetals;
+    } else if (nbPetals > 6) {
+        while (nbPetals > 6) {
+            nbPetals = nbPetals - 6;
+        }
+    }
+    switch (nbPetals) {
+        case 1:
+            return "I love you";
+        case 2:
+            return "a little";
+        case 3:
+            return "a lot";
+        case 4:
+            return "passionately";
+        case 5:
+            return "madly";
+        case 6:
+            return "not at all";
+    }
+}
