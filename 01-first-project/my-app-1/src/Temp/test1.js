@@ -261,5 +261,8 @@ function peopleWithAgeDrink(old) {
 
 const areaOrPerimeter = function (l, w) {
     return l == w ? l * w : l * 2 + w * 2;
-
 };
+
+function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
+    return laLigaGoals + copaDelReyGoals + championsLeagueGoals;
+}
