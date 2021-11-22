@@ -274,3 +274,11 @@ function oddOrEven(array) {
     }
     return sum % 2 == 0 ? "even" : "odd";
 }
+
+function uniTotal(str) {
+    var sum = 0;
+    for (i = ''; i < str.length; i++) {
+        sum = sum + str.charCodeAt(i);
+    }
+    return sum;
+}
