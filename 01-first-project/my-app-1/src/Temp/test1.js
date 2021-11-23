@@ -295,3 +295,7 @@ function doubleInteger(i) {
 function multiply(a, b) {
     return a * b;
 }// Write here your multiply-function
+
+var a = "dev"
+var b = "Lab"
+var name = a + b
