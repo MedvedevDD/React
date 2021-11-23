@@ -286,3 +286,8 @@ function uniTotal(str) {
 function isDivisible(n, x, y) {
     return n % x == 0 && n % y == 0 ? true : false;
 }
+
+function doubleInteger(i) {
+    // i will be an integer. Double it and return it.
+    return i*2;
+}
