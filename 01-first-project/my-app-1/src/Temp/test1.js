@@ -289,7 +289,7 @@ function isDivisible(n, x, y) {
 
 function doubleInteger(i) {
     // i will be an integer. Double it and return it.
-    return i*2;
+    return i * 2;
 }
 
 function multiply(a, b) {
@@ -305,6 +305,18 @@ function addFive(num) {
     return total
 }
 
-function move (position, roll) {
+function move(position, roll) {
     return position + 2 * roll// return the new position
+}
+
+function expressionMatter(a, b, c) {
+    var resultArray = [];
+    resultArray.push(a + b + c);
+    resultArray.push(a * b * c);
+    resultArray.push(a * (b + c));
+    resultArray.push(a * b + c);
+    resultArray.push(a + b * c);
+    resultArray.push((a + b) * c);
+    var max = Math.max(...resultArray);
+    return max;
 }
