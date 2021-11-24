@@ -324,3 +324,7 @@ function expressionMatter(a, b, c) {
 function opposite(number) {
     return number - 2 * number//your code here
 }
+
+function lovefunc(flower1, flower2) {
+    return (flower1 - flower2) % 2 != 0 ? true : false;
+}
