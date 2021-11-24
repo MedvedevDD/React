@@ -299,3 +299,8 @@ function multiply(a, b) {
 var a = "dev"
 var b = "Lab"
 var name = a + b
+
+function addFive(num) {
+    var total = num + 5
+    return total
+}
