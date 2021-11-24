@@ -328,3 +328,7 @@ function opposite(number) {
 function lovefunc(flower1, flower2) {
     return (flower1 - flower2) % 2 != 0 ? true : false;
 }
+
+function litres(time) {
+    return Math.floor(time / 2);
+}
