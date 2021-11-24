@@ -320,3 +320,7 @@ function expressionMatter(a, b, c) {
     var max = Math.max(...resultArray);
     return max;
 }
+
+function opposite(number) {
+    return number - 2 * number//your code here
+}
