@@ -304,3 +304,7 @@ function addFive(num) {
     var total = num + 5
     return total
 }
+
+function move (position, roll) {
+    return position + 2 * roll// return the new position
+}
