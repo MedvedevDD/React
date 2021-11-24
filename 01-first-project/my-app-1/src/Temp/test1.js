@@ -332,3 +332,9 @@ function lovefunc(flower1, flower2) {
 function litres(time) {
     return Math.floor(time / 2);
 }
+
+function remainder(a, b) {
+    return a > b ? a % b : b % a
+    // Divide the larger argument by the smaller argument and return the remainder
+
+}
