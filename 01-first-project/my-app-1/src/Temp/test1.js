@@ -342,3 +342,7 @@ function remainder(a, b) {
 function square(num) {
     return num * num;
 }
+
+function greet() {
+    return "hello world!"
+}
