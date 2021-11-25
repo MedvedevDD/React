@@ -421,3 +421,16 @@ function find_average(array) {
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
     return fuelLeft >= distanceToPump / mpg ? true : false;
 };
+
+function repeatStr(n, s) {
+    var str = "";
+    for (i = 0; i < n; i++) {
+        str += s
+    }
+    return str;
+}
+
+function removeChar(str) {
+    var newStr = str.substring(1, str.length - 1);
+    return newStr;
+};
