@@ -398,3 +398,8 @@ function findDifference(a, b) {
     })
     return dimA > dimB ? dimA - dimB : dimB - dimA;
 }
+
+function DNAtoRNA(dna) {
+    var re = /T/gi;
+    return dna.replace(re, 'U');
+}
