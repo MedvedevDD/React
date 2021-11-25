@@ -403,3 +403,17 @@ function DNAtoRNA(dna) {
     var re = /T/gi;
     return dna.replace(re, 'U');
 }
+
+function find_average(array) {
+    var sum = 0;
+    var count = 0;
+    if (array.length == 0) {
+        return 0;
+    } else {
+        for (i = 0; i < array.length; i++) {
+            sum += array[i];
+            count += 1;
+        }
+        return sum / count;
+    }
+}
