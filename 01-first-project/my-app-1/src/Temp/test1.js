@@ -382,3 +382,19 @@ function findLongest(str) {
 var a = "code";
 var b = "wa.rs";
 var name = a + b;
+
+function hoopCount(n) {
+    return n < 10 ? "Keep at it until you get it" : "Great, now move on to tricks"
+}
+
+function findDifference(a, b) {
+    var dimA = 1;
+    var dimB = 1;
+    a.forEach(function (num) {
+        dimA = dimA * num;
+    })
+    b.forEach(function (num) {
+        dimB = dimB * num;
+    })
+    return dimA > dimB ? dimA - dimB : dimB - dimA;
+}
