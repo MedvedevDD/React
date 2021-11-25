@@ -346,3 +346,11 @@ function square(num) {
 function greet() {
     return "hello world!"
 }
+
+function between(a, b) {
+    var result = [];
+    for (i = a; i <= b; i++) {
+        result.push(i);
+    }
+    return result;
+}
