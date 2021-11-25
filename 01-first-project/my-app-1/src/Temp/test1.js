@@ -417,3 +417,7 @@ function find_average(array) {
         return sum / count;
     }
 }
+
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+    return fuelLeft >= distanceToPump / mpg ? true : false;
+};
