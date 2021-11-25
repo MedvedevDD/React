@@ -354,3 +354,14 @@ function between(a, b) {
     }
     return result;
 }
+
+function pipeFix(numbers) {
+    var oldArray = numbers;
+    var newArray = [];
+    var fEl = oldArray[0];
+    var lEl = oldArray[oldArray.length - 1];
+    for (i = fEl; i <= lEl; i++) {
+        newArray.push(i);
+    }
+    return newArray;
+}
