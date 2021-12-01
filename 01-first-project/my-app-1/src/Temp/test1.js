@@ -434,3 +434,7 @@ function removeChar(str) {
     var newStr = str.substring(1, str.length - 1);
     return newStr;
 };
+
+function booleanToString(b) {
+    return b ? "true" : "false";
+}
