@@ -13,31 +13,9 @@
 /*    background-color: saddlebrown;*/
 
 /*}*/
-.header {
-    grid-area: h;
-    background-color: green;
-}
-.header img {
-    width: 80px;
-}
-.nav {
-    grid-area: n;
-    background-color: burlywood;
-    /*background: linear-gradient(#9A5044, #E8D9A9) fixed;*/
-    padding: 20px;
-}
-
-.item a {
-    text-decoration: none;
-    color:whitesmoke
-}
-.item a.activelink {
-    color: gold
 
 
-}
-.content {
-    grid-area: c;
-    background-color: saddlebrown;
-}
+
+
+
 

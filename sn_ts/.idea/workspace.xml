@@ -6,32 +6,26 @@
       <change afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Rating/Rating.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4test/src/Task.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4test/src/ToDoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sn_ts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/reportWebVitals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navbar/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/Post/Post.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +49,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/Post" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="D:\React\sn_ts\my-app\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\React\sn_ts\my-app\src\components\Profile" />
+      <recent name="D:\React\sn_ts\my-app\src\components\Navbar" />
+      <recent name="D:\React\sn_ts\my-app\src\components\Header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\React\sn_ts\my-app\src\components\Profile\MyPosts\Post" />
+      <recent name="D:\React\sn_ts\my-app\src\components\Profile\MyPosts" />
+      <recent name="D:\React\sn_ts\my-app\src\components" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -85,8 +92,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639246953024</updated>
-      <workItem from="1639246954106" duration="3508000" />
+      <workItem from="1639246954106" duration="15069000" />
     </task>
+    <task id="LOCAL-00001" summary="creating new app social network TS">
+      <created>1639250505465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639250505465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,10 +112,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="creating new app social network TS" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="103" key="CommitChangelistDialog2" timestamp="1639250462009">
+    <state x="585" y="103" key="CommitChangelistDialog2" timestamp="1639250504196">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="585" y="103" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639250462009" />
+    <state x="585" y="103" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639250504196" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1639325307892">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639325307892" />
     <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1639247004542">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -117,5 +136,13 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639247004541" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1639251805733">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639251805733" />
+    <state x="552" y="236" key="Vcs.Push.Dialog.v2" timestamp="1639250514463">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639250514463" />
   </component>
 </project>
