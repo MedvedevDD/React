@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f7b0bb3-7988-4bd5-9290-703b077f549b" name="Default Changelist" comment="creating new app social network TS">
-      <change afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Accordion/Accordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Rating/Rating.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4test/src/Task.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4test/src/ToDoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navbar/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/Post/Post.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../it-incubator/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../it-incubator/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639246953024</updated>
-      <workItem from="1639246954106" duration="15069000" />
+      <workItem from="1639246954106" duration="16257000" />
     </task>
     <task id="LOCAL-00001" summary="creating new app social network TS">
       <created>1639250505465</created>
