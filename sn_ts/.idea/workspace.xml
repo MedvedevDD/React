@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f7b0bb3-7988-4bd5-9290-703b077f549b" name="Default Changelist" comment="creating new app social network TS">
-      <change beforePath="$PROJECT_DIR$/../it-incubator/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../it-incubator/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworks/.idea/homeworks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/Post" />
+    <property name="last_opened_file_path" value="C:/Temp/Верстка/lesson-3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="D:\React\sn_ts\my-app\node_modules\typescript\lib" />
@@ -71,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639246953024</updated>
-      <workItem from="1639246954106" duration="16257000" />
+      <workItem from="1639246954106" duration="16258000" />
+      <workItem from="1639571770474" duration="1202000" />
+      <workItem from="1639590728176" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="creating new app social network TS">
       <created>1639250505465</created>
@@ -95,26 +96,26 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="585" y="103" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639250504196" />
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1639325307892">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1639571797175">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639325307892" />
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1639247004542">
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639571797175" />
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1639564063085">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639247004542" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1639247004541">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639564063085" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1639564063084">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639247004541" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1639247004540">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639564063084" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1639564063083">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639247004540" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1639247004541">
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639564063083" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1639564063084">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639247004541" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639564063084" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1639251805733">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
