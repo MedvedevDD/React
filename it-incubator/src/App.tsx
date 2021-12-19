@@ -50,7 +50,7 @@ const changeFilter = (filter: FiltersValueType) => {setFilter(filter)}
                       tasks={tasksForRender}
                       removeTask={removeTask}
                       changeFilter={changeFilter}
-                      filter={filter}
+                      // filter={filter}
 
             />
         </div>
