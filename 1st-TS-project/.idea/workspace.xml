@@ -2,30 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99e1fe64-962f-4c8b-a8e7-b2f3170d04f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Accordion/Accordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Rating/Rating.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4test/src/Task.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4test/src/ToDoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JS_Native/49_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../it-incubator/src/TodoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Navbar/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Profile/MyPosts/MyPosts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Profile/MyPosts/Post/Post.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/components/Profile/Profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Destructuring.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/ControlledOnOff/ControlledOnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/OnOff/OnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/destructuring.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Rating/Rating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/src/p1-main/m1-ui/u1-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworks/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/src/p2-homeworks/h2/Affair.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworks/src/p2-homeworks/h2/Affair.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/src/p2-homeworks/h2/Affairs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworks/src/p2-homeworks/h2/Affairs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/src/p2-homeworks/h2/HW2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworks/src/p2-homeworks/h2/HW2.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sn_ts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sn_ts/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sn_ts/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sn_ts/my-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../sn_ts/my-app/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +33,33 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src/components" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\React\1st-TS-project\my-app\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\React\1st-TS-project\my-app\src\components" />
+      <recent name="D:\React\1st-TS-project\my-app\src\components\OnOff" />
+      <recent name="D:\React\1st-TS-project\my-app\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Unnamed">
+    <configuration name="Unnamed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/my-app" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/my-app/src/destructuring.test.ts" />
+      <test-names>
+        <test-name value="" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/my-app/package.json" />
       <command value="run" />
@@ -63,6 +73,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.start" />
+        <item itemvalue="Jest.Unnamed" />
       </list>
     </recent_temporary>
   </component>
@@ -80,6 +91,8 @@
       <workItem from="1639246065637" duration="62000" />
       <workItem from="1639247060510" duration="27000" />
       <workItem from="1639390552972" duration="195000" />
+      <workItem from="1639922800568" duration="6665000" />
+      <workItem from="1640274542713" duration="23822000" />
     </task>
     <servers />
   </component>
@@ -87,21 +100,36 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1639390749767">
+    <state x="740" y="258" key="FileChooserDialogImpl" timestamp="1640535201538">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639390749767" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1639390749766">
+    <state x="740" y="258" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640535201538" />
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1641127506232">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639390749766" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1639390749766">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1641127506232" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1641127506232">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639390749766" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1639390749767">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1641127506232" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1641127506232">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639390749767" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1641127506232" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1641127506232">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1641127506232" />
+    <state x="794" y="218" key="RollbackChangesDialog" timestamp="1640794662999">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="794" y="218" key="RollbackChangesDialog/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640794662999" />
+    <state x="616" y="238" key="run.anything.popup" timestamp="1640291619552">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640291619552" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1st_TS_project$Unnamed.info" NAME="Unnamed Coverage Results" MODIFIED="1640035541540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

@@ -2,17 +2,19 @@ import React from 'react'
 
 type AffairPropsType = {
     // key не нужно типизировать
-    affair: any // need to fix any
-    deleteAffairCallback: any // need to fix any
+    affair: string // need to fix any!
+    deleteAffairCallback: (id: number) => void // need to fix any!
+    id: number
 }
 
 function Affair(props: AffairPropsType) {
-    const deleteCallback = () => {}// need to fix
-
+    const deleteCallback = () => {
+        props.deleteAffairCallback(props.id)
+    }// need to fix
+    debugger;
     return (
         <div>
-            // show some text
-
+            {props.affair}
             <button onClick={deleteCallback}>X</button>
         </div>
     )

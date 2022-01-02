@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f7b0bb3-7988-4bd5-9290-703b077f549b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Profile/ProfileInfo/ProfileInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/Destructuring.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/destructuring.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1st-TS-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1st-TS-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1st-TS-project/my-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../1st-TS-project/my-app/src/components/Rating/Rating.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Profile/Profile.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1639246954106" duration="16258000" />
       <workItem from="1639571770474" duration="1202000" />
       <workItem from="1639590728176" duration="1865000" />
-      <workItem from="1639847968004" duration="14802000" />
+      <workItem from="1639847968004" duration="16319000" />
     </task>
     <task id="LOCAL-00001" summary="creating new app social network TS">
       <created>1639250505465</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639918622070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactor">
+      <created>1639919898682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639919898682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,41 +119,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added Routs and som refactoring" />
     <MESSAGE value="creating new app social network TS" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating new app social network TS" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="103" key="CommitChangelistDialog2" timestamp="1639918621111">
+    <state x="585" y="103" key="CommitChangelistDialog2" timestamp="1639919897406">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="585" y="103" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639918621111" />
+    <state x="585" y="103" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639919897406" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1639571797175">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639571797175" />
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1639848054681">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1640271297674">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639848054681" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1639848054681">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640271297674" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1640271297674">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639848054681" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1639848054681">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640271297674" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1640271297673">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639848054681" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1639848054681">
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640271297673" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1640271297674">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639848054681" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640271297674" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1639251805733">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639251805733" />
-    <state x="552" y="236" key="Vcs.Push.Dialog.v2" timestamp="1639250514463">
+    <state x="552" y="236" key="Vcs.Push.Dialog.v2" timestamp="1640026870775">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1639250514463" />
+    <state x="552" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1600.852@0.0.1920.1032" timestamp="1640026870775" />
     <state x="616" y="238" key="run.anything.popup" timestamp="1639859407563">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

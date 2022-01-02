@@ -1,82 +1,44 @@
-import React from "react";
+import React, {useState} from "react";
 
 type RatingPropsType = {
     value: 0 | 1 | 2 | 3 | 4 | 5
 }
 
-export function Rating(props: RatingPropsType) {
-    console.log("Rating Rendered")
+export function Rating() {
+    const [rating, setRating] = useState(0)
 
-    if (props.value === 1) {
-        return (
-            <div>
-                <Star selected={true}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-            </div>)
+    function setStars(star: number) {
+        setRating(star)
     }
-    if (props.value === 2) {
-        return (
-            <div>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-            </div>)
-    }
-    if (props.value === 3) {
-        return (
-            <div>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-            </div>)
-    }
-    if (props.value === 4) {
-        return (
-            <div>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={false}/>
-            </div>)
-    }
-    if (props.value === 5) {
-        return (
-            <div>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-            </div>)
-    }
+
+    console.log("Rating Rendered")
     return (
         <div>
-            <Star selected={false}/>
-            <Star selected={false}/>
-            <Star selected={false}/>
-            <Star selected={false}/>
-            <Star selected={false}/>
-        </div>)
+            <Star selected={rating > 0} setStars={setStars} currentRating = {1}/>
+
+            <Star selected={rating > 1} setStars={setStars} currentRating = {2}/>
+
+            <Star selected={rating > 2} setStars={setStars} currentRating = {3}/>
+
+            <Star selected={rating > 3} setStars={setStars} currentRating = {4}/>
+
+            <Star selected={rating > 4} setStars={setStars} currentRating = {5}/>
+
+        </div>
+    )
+
 
 }
 
 type StarPropsType = {
     selected: boolean
+    setStars: (currentNumber: number)=> void
+    currentRating: number
 }
 
 function Star(props: StarPropsType) {
-    console.log("Star Rendered")
-    if (props.selected === true) {
-        return <span><b>star </b></span>
-    } else {
-        return <span>star </span>
-    }
+
+
+    return props.selected ? <span onClick={() => {props.setStars(props.currentRating)}}><b>star </b></span> :
+        <span onClick={() => {props.setStars(props.currentRating)}}>star </span>
 }
